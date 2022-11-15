@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rana19sahil
 - 👀 I’m interested in Information and technology. 
-- 🌱 I’m currently learning codding.
+- 🌱 I’m currently learning programing.
 - 📫 How to reach me LinkedIn/rana19sahil
 
 <!---
